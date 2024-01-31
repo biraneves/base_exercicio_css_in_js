@@ -1,4 +1,4 @@
-import styles from './Hero.module.css'
+import styles from './Hero.module.css';
 
 const Hero = () => (
   <form className={styles.form}>
@@ -8,6 +8,6 @@ const Hero = () => (
       </h2>
     </div>
   </form>
-)
+);
 
-export default Hero
+export default Hero;
